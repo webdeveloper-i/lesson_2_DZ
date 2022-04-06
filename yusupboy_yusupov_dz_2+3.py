@@ -15,4 +15,3 @@ for ind, element in enumerate(some_list):
     res_str += ' '
 res_str = res_str[0:len(res_str)-1]
 print(res_str)
-
